@@ -4,8 +4,12 @@ body {
 
 .photos {
     display: grid;
-    grid-template-columns: repeat(4, 15fr);
+    grid-template-columns: repeat(5, 15fr);
     gap: 30px
+}
+
+.gatsby-image-wrapper {
+    height: 260px;
 }
 
 .header {
