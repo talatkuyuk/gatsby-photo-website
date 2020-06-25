@@ -1,0 +1,9 @@
+.photos {
+    display: grid;
+    grid-template-columns: repeat(4, 15fr);
+    gap: 10px
+}
+
+.header {
+    background-color: lawngreen;
+}
