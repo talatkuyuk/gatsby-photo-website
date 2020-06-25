@@ -1,9 +1,15 @@
+body {
+    padding: 30px;
+}
+
 .photos {
     display: grid;
     grid-template-columns: repeat(4, 15fr);
-    gap: 10px
+    gap: 30px
 }
 
 .header {
-    background-color: lawngreen;
+    background-color: honeydew;
+    height: 80px;
+    align-items: center;
 }
